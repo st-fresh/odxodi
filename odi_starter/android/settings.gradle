@@ -1,0 +1,3 @@
+rootProject.name = 'odi_starter'
+
+include ':app'

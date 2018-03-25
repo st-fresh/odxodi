@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+
+    target 'odi_starter' do
+      use_frameworks!
+
+      # Pods for odi_starter
+        pod 'OpenTok'
+    end

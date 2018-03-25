@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:odi_starter-Bridging-Header.h">
+   </FileRef>
+   <FileRef
+      location = "group:OTPublisher.h">
+   </FileRef>
+   <FileRef
+      location = "group:OTPublisher.m">
+   </FileRef>
+   <FileRef
+      location = "group:OTPublisherManager.swift">
+   </FileRef>
+   <FileRef
+      location = "group:OTPublisherView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:OTRN.swift">
+   </FileRef>
+   <FileRef
+      location = "group:OTSessionManager.m">
+   </FileRef>
+   <FileRef
+      location = "group:OTSessionManager.swift">
+   </FileRef>
+   <FileRef
+      location = "group:OTSubscriber.h">
+   </FileRef>
+   <FileRef
+      location = "group:OTSubscriber.m">
+   </FileRef>
+   <FileRef
+      location = "group:OTSubscriberManager.swift">
+   </FileRef>
+   <FileRef
+      location = "group:OTSubscriberView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:odi_starter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
